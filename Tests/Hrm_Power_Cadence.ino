@@ -1,5 +1,5 @@
 /* 
- * Heartrate + Battery
+ * Heartrate + Battery + Power
  */
 
 #include "BLEDevice.h"
