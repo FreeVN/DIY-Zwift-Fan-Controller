@@ -3,11 +3,11 @@
 	
 Created with the intention to control a 3-speed fan in function of heartrate/power/cadence for a comfortable Zwift experience.
 	
-## Hardware:
+## Hardware
 		ESP32 board (Wemos Lolin 32 OLED)
 		Solid state relais module
 		RPI 4 (as a Docker host for Node Red, InfluxBD, Grafana, MQTT server, ...)
-
+## What is does
 Grabs Data from indoor bike trainer and heartrate monitor BLE-devices (Elite Direto & Wahoo Tickr in this case, but doesn't matter) 
 Sends it to MQTT -> Node Red -> InfluxDB.
 
