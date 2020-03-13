@@ -15,4 +15,5 @@ Node Red handles the fanspeed depending on heartrate an sends it to the ESP32 (M
 
 Grafana pulls data from InfluxDB to create a beautiful dashboard.
 
+## Important note
 Botched together with little expierence, but a lot of inspiration from https://github.com/Merdeka, https://github.com/chegewara, https://github.com/SensorsIot.
