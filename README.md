@@ -1,7 +1,7 @@
 # DIY-Zwift-Fan-Controller
-	(ESP32 Ble-MQTT Gateway)
+<b>(ESP32 Ble-MQTT Gateway)</b>
 	
-*Created with the intention to control a 3-speed fan in function of heartrate/power/cadence for a comfortable Zwift experience.
+Created with the intention to control a 3-speed fan in function of heartrate/power/cadence for a comfortable Zwift experience.
 	
 	Hardware:
 		ESP32 board (Wemos Lolin 32 OLED)
