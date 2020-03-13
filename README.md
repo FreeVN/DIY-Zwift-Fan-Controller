@@ -8,7 +8,7 @@
 		Solid state relais module
 		RPI 4 (as a Docker host for Node Red, InfluxBD, Grafana, MQTT server, ...)
 
-Grabs Data from indoor biek trainer and heartrate monitor BLE-devices (Elite Direto & Wahoo Tickr in this case, but doesn't matter) 
+Grabs Data from indoor bike trainer and heartrate monitor BLE-devices (Elite Direto & Wahoo Tickr in this case, but doesn't matter) 
 Sends it to MQTT -> Node Red -> InfluxDB.
 
 Node Red handles the fanspeed depending on heartrate an sends it to the ESP32 (MQTT) wich then operates the solid state relais
