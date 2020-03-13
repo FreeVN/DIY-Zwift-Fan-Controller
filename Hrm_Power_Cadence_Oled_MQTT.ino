@@ -13,11 +13,11 @@ const int R2 = 14;
 const int R3 = 15;
 
 //Wifi Settings/////////////////////////
-const char* ssid = "Kamerstraat24";
-const char* password =  "Jochei!Wifi!";
+const char* ssid = "SSID";
+const char* password =  "PASS";
 
 //MQTT Settings/////////////////////////
-const char* mqttServer = "192.168.20.14";
+const char* mqttServer = "Server_IP";
 const int mqttPort = 1883;
 const char* mqttUser = "";
 const char* mqttPassword = "";
