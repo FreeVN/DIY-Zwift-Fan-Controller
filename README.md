@@ -13,4 +13,6 @@ Sends it to MQTT -> Node Red -> InfluxDB.
 
 Node Red handles the fanspeed depending on heartrate an sends it to the ESP32 (MQTT) wich then operates the solid state relais
 
-Grafana pulls data from InfluxDB to create a beautiful dashboard
+Grafana pulls data from InfluxDB to create a beautiful dashboard.
+
+Botched together with little expierence, but a lot of inspiration from https://github.com/Merdeka, https://github.com/chegewara, https://github.com/SensorsIot.
