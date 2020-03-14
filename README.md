@@ -16,4 +16,4 @@ Node Red handles the fanspeed depending on heartrate & environmental conditions 
 Grafana pulls data from InfluxDB to create a (rather beautiful) dashboard.
 
 ## Important note
-Botched together with little expierence, but a lot of inspiration from https://github.com/Merdeka, https://github.com/chegewara, https://github.com/SensorsIot, https://github.com/espressif/arduino-esp32.
+Botched together with little expierence, but a lot of inspiration (read: copy/paste) from https://github.com/Merdeka, https://github.com/chegewara, https://github.com/SensorsIot, https://github.com/espressif/arduino-esp32.
